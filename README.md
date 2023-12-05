@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### Hi there, I'm Arnaud Soupady 👋
-![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
 
 <br>
 
