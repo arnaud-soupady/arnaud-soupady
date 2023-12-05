@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+### Hi there, I'm Arnaud Soupady 👋
+![](https://komarev.com/ghpvc/?username=MisterAzix&style=flat-square&label=VIEWS&color=41b883)
+
+<br>
+
+- 🔭 I’m currently working at [@AFD Tech](https://afd.tech/) as fullstack developer
+- 🌱 I’m currently learning **Typescript, React, NextJS, Express, NodeJS**
+- 📫 How to reach me: **[@arnaud soupady](https://www.linkedin.com/in/arnaud-soupady/)**
+
+### Find me on the web 🌐
+
+<p align="left">
+  <a href="https://uddy.fr/">
+    <img src="https://img.shields.io/badge/my_portfolio-41b883?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/arnaud-soupady/">
+    <img src="https://img.shields.io/badge/linkedin-41b883?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 <!--
 **arnaud-soupady/arnaud-soupady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
