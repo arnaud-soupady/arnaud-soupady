@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I’m currently working at [@AFD Tech](https://afd.tech/) as fullstack developer
-- 🌱 I’m currently learning **Typescript, React, NextJS, Express, NodeJS**
+- 🌱 I’m currently learning **Typescript, React, adonisjs, Express, NodeJS**
 - 📫 How to reach me: **[@arnaud soupady](https://www.linkedin.com/in/arnaud-soupady/)**
 
 ### Find me on the web 🌐
