@@ -2,8 +2,8 @@
 
 <br>
 
-- 🔭 I’m currently working at [@AFD Tech](https://afd.tech/) as fullstack developer
-- 🌱 I’m currently learning **Typescript, React, adonisjs, Express, NodeJS**
+- 🔭 I’m currently working at [@Koesio IT](https://koesio.com/entite/corporate-it/) as fullstack developer
+- 🌱 I’m currently learning **Typescript, React, Nextjs, adonisjs, NodeJS**
 - 📫 How to reach me: **[@arnaud soupady](https://www.linkedin.com/in/arnaud-soupady/)**
 
 ### Find me on the web 🌐
