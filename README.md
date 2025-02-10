@@ -2,7 +2,7 @@
 
 <br>
 
-- 🔭 I’m currently working at [@Heliaq]([https://koesio.com/entite/corporate-it/](https://heliaq.fr/)) as fullstack developer
+- 🔭 I’m currently working at [@Heliaq]([https://heliaq.fr/](https://heliaq.fr/)) as fullstack developer
 - 🌱 I’m currently learning **Typescript, React, Nextjs, adonisjs, NodeJS**
 - 📫 How to reach me: **[@arnaud soupady](https://www.linkedin.com/in/arnaud-soupady/)**
 
